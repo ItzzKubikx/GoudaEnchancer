@@ -1,7 +1,7 @@
 # 🧀 GoudaEnhancer
 AI-powered photo enhancement | Restore sharpness and quality to blurry/pixelated images instantly
 
-<img width="1024" height="1024" alt="a_dodaj_do_tego_Obrazu" src="https://github.com/user-attachments/assets/62b141cd-70ac-4741-ba71-83bca7a98626" />
+<img width="256" height="256" alt="a_dodaj_do_tego_Obrazu" src="https://github.com/user-attachments/assets/62b141cd-70ac-4741-ba71-83bca7a98626" />
 
 🔍 About
 GoudaEnhancer is a ready-to-use AI model that restores quality to degraded photos. Simply run the script with your blurry/pixelated image and get an enhanced result in seconds!
@@ -24,4 +24,8 @@ Built with GAN (Generative Adversarial Network) architecture trained on thousand
 
 <img width="1919" height="1031" alt="Zrzut ekranu 2025-10-27 153926" src="https://github.com/user-attachments/assets/be202392-9a9b-4f05-b22b-609493f3c4a3" />
 
-[Uploading test.py…]()
+Current best model stats:
+
+parameters: 16 milion
+dataset: 2454 pictures
+epochs: 20

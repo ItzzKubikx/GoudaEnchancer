@@ -28,7 +28,7 @@ Current best model stats:
 
 parameters: 16 milion
 dataset: 2454 pictures
-epochs: 20
+epochs: 19
 
 
 # Usage:

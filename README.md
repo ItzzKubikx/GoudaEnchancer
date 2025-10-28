@@ -29,3 +29,8 @@ Current best model stats:
 parameters: 16 milion
 dataset: 2454 pictures
 epochs: 20
+
+
+# Usage:
+Change the paths to you filer here:
+<img width="932" height="290" alt="image" src="https://github.com/user-attachments/assets/a47596e4-dcfd-4685-bdc3-505264197bb4" />

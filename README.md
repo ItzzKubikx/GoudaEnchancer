@@ -34,3 +34,8 @@ epochs: 20
 # Usage:
 Change the paths to you filer here:
 <img width="932" height="290" alt="image" src="https://github.com/user-attachments/assets/a47596e4-dcfd-4685-bdc3-505264197bb4" />
+
+#downlaod file to test the model: 
+
+MediaFire: https://www.mediafire.com/file/zmwvs2ztjkx4ovh/test.py/file
+Google Drive:  https://drive.google.com/file/d/15lsn5S3CVnuImIl-ta016G3j12Pr4FO4/view?usp=drive_link

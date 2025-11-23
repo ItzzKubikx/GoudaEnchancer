@@ -27,10 +27,10 @@ Built with GAN (Generative Adversarial Network) architecture trained on thousand
 Current best model stats:
 
 parameters: 16 milion
-dataset: 2454 pictures
-epochs: 19
+dataset: ~4800 pictures
+epochs: 18
 
-
+[ ONLY WORKS ON GOUDA ENHANCER 0.01, SUPPORT FOR 0.02 SOON ]
 # Usage:
 Change the paths to you filer here:
 <img width="932" height="290" alt="image" src="https://github.com/user-attachments/assets/a47596e4-dcfd-4685-bdc3-505264197bb4" />
